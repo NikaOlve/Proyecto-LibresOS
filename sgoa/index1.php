@@ -7,6 +7,8 @@
         <link rel="stylesheet" href="plugins/bootstrap/css/bootstrap-responsive.css"></link>
         <link rel="stylesheet" type="text/css" href="estilos/estilos.css"></link>
         <title>Proyecto SGOA</title>
+
+
     </head>
     <body>
         <form action="aplicacion/validar.php" method="post">
@@ -17,6 +19,9 @@
                 <option value="PRO">Profesor</option>
                 <option value="EST">Estudiante</option>
             </select></br>
+        
+        
+        
             <input class="form-control" type="text" placeholder="&#128104 Usuario" required name="user"></input></br>
             <label></label>
             <input class="form-control" type="password" placeholder="&#128273; Contraseña" required name="pass"></input>
