@@ -36,7 +36,7 @@
                 <h2 style="color: #004e91; font-size: 250%;">Regístrate</h2>
                     <td width="50%"> <a href="aplicacion/formularios_registro/RegistrarProfesor.php"> Registrar Profesor</a></td></br>
                     <label></label>
-                    <td width="50%" align="right" valign="middle"><a href="aplicacion/formularios_registro/RegistrarEstudiante.php"> Registrar Estudiante</a></td>
+                    <td width="50%" align="ri	ght" valign="middle"><a href="aplicacion/formularios_registro/RegistrarEstudiante.php"> Registrar Estudiante</a></td>
                 </form>
     </body>
 </html>

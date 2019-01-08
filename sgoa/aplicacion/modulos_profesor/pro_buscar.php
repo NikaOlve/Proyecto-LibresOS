@@ -46,7 +46,7 @@ if (@!$_SESSION['usuario']) {
     }
     /* Set black background color, white text and some padding */
     footer {
-        background-color: blue;
+        background-color: #555;
         color: white;
         padding: 15px;
         position: fixed;
@@ -95,6 +95,9 @@ if (@!$_SESSION['usuario']) {
                 <li class="active"><a href="../modulos_profesor/pro_buscar.php">Buscar</a></li>
                 <li><a href="../modulos_profesor/pro_herramientas.php">Herramientas</a></li>
 				<li><a href="../sistema-de-comentarios/index.php">Sala de Chat</a></li>
+				<li><a href="../modulos_comunes/index.php">Foro</a></li>
+			
+			
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="../desconectar_sesion.php"><span class="glyphicon glyphicon-log-out"></span> Salir</a></li>
@@ -103,6 +106,13 @@ if (@!$_SESSION['usuario']) {
     </div>
 </nav>
 <!-- Inicio formulario de búsqueda -->
+
+
+
+
+
+
+
 
 <!-- presentacion de objetos de aprendizaje-->
 <div class="container-fluid text-center">
