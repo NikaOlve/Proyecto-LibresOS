@@ -1,4 +1,8 @@
 <?php 
+ 
+ /**Diseño
+**Conexión
+*/
  require_once '../aplicacion/clases_negocio/clase_administrador.php';
  $adminitrador=new Administrador('adminp','admin','ADM', 'V');
  $adminitrador->guardar();
