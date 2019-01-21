@@ -6,6 +6,7 @@ if($_SESSION['usuario']){
 	header("location:../index2.php");
 }
 else{
+	//thi does not matter
 	header("location:../index2.php");
 }
 ?>
